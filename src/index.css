@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Outfit", sans-serif;
+}
+
+.hero {
+  height: 100vh;
+  background-image: url(./assets/img/hero.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+/* tablet */
+@media (max-width: 1024px) {
+  .hero {
+    height: 100dvh;
+    background-image: url(./assets/img/heroMobile2.avif);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+}
+/* hp */
+@media (max-width: 500px) {
+  .hero {
+    height: 100dvh;
+    background-image: url(./assets/img/heroMobile2.avif);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+}
+
+/* footer hero */
+.footerHero {
+  height: 1500px;
+  background-image: url(./assets/img/footer.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/* 2xl */
+@media (min-width: 1536px) {
+  .footerHero {
+    height: 2000px;
+    background-image: url(./assets/img/footer.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+}
+/* tablet */
+@media (max-width: 1020px) {
+  .footerHero {
+    height: 100vh;
+    background-image: url(./assets/img/footerMobile3.png);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+}
+/* tablet */
+@media (max-width: 500px) {
+  .footerHero {
+    height: 100vh;
+    background-image: url(./assets/img/footerMobile2.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
