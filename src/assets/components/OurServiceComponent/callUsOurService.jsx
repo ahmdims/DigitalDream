@@ -23,7 +23,7 @@ export default function CallUsOurService() {
         </div>
         {/* kanan */}
         <a
-          href="https://cal.com/likearthstudio/30min"
+          href="https://cal.com/digitalndream/30min"
           target="_blank"
           className="w-[100%] md:w-[40%] xl:w-[25%] flex justify-end items-center"
         >

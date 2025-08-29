@@ -8,7 +8,7 @@
 
 .hero {
   height: 100vh;
-  background-image: url(./assets/img/hero.png);
+  background-image: url(./assets/img/hero/heroDesktop.svg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -17,7 +17,7 @@
 @media (max-width: 1024px) {
   .hero {
     height: 100dvh;
-    background-image: url(./assets/img/heroMobile2.avif);
+    background-image: url(./assets/img/hero/heroMobile.svg);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -27,7 +27,7 @@
 @media (max-width: 500px) {
   .hero {
     height: 100dvh;
-    background-image: url(./assets/img/heroMobile2.avif);
+    background-image: url(./assets/img/hero/heroMobile.svg);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@
 /* footer hero */
 .footerHero {
   height: 1500px;
-  background-image: url(./assets/img/footer.png);
+  background-image: url(./assets/img/footer/footerDesktop.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@
 @media (min-width: 1536px) {
   .footerHero {
     height: 2000px;
-    background-image: url(./assets/img/footer.png);
+    background-image: url(./assets/img/footer/footerDesktop.svg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -56,7 +56,7 @@
 @media (max-width: 1020px) {
   .footerHero {
     height: 100vh;
-    background-image: url(./assets/img/footerMobile3.png);
+    background-image: url(./assets/img/footer/footerTablet.svg);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -66,7 +66,7 @@
 @media (max-width: 500px) {
   .footerHero {
     height: 100vh;
-    background-image: url(./assets/img/footerMobile2.png);
+    background-image: url(./assets/img/footer/footerMobile.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

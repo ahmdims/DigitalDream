@@ -49,7 +49,7 @@ export default function Footer() {
         </div>
         {/* tengah */}
         <div className="flex items-center justify-center">
-          <p className="text-[#08605F] text-[20px] leading-[28px]">
+          <p className="text-primary text-[20px] leading-[28px]">
             "Bring Your Ideas to Life, No Cap!"
           </p>
         </div>

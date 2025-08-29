@@ -28,7 +28,7 @@ export default function KontakUnsued() {
           <div className="absolute left-[0.75rem] flex items-center justify-center bg-primary bg-opacity-25 w-[1rem] h-[1rem] rounded-[50%] animate-scale-down-infinite"></div>
           <div className="w-[0.625rem] h-[0.625rem] bg-primary rounded-[50%] absolute left-[0.90rem]"></div>
           {/* btn */}
-          <a href="https://cal.com/likearthstudio/30min" target="_blank">
+          <a href="https://cal.com/digitalndream/30min" target="_blank">
             <Btn
               title="Book a Call"
               style="flex justify-center items-center relative bg-primary hover:bg-[#04525b] transition-all duration-500 ease-in-out text-white border border-primary overflow-hidden rounded-[0.938rem] py-[0.719rem] px-[1.5rem] absolute"
