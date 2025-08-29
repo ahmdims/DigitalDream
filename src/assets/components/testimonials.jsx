@@ -6,9 +6,9 @@ import Clients4 from "../img/client/client4.png";
 import Clients5 from "../img/client/client5.png";
 import Clients6 from "../img/client/client6.png";
 import Clients7 from "../img/client/client7.png";
-import Awan3 from "../img/awan3.png";
-import Awan5 from "../img/awan5.png";
-import Awan6 from "../img/awan6.png";
+import Awan3 from "../img/cloud/cloud3.png";
+import Awan5 from "../img/cloud/cloud5.png";
+import Awan6 from "../img/cloud/cloud6.png";
 import KomentarTestimonials from "./TestimonialsComponent/komentarTestimonials";
 import HeaderTestimonials from "./TestimonialsComponent/headerTestimonials";
 

@@ -1,5 +1,5 @@
-import Awan1 from "../img/awan1.png";
-import Awan2 from "../img/awan2.png";
+import Awan1 from "../img/cloud/cloud1.png";
+import Awan2 from "../img/cloud/cloud2.png";
 import WhyUsContent from "./WhyUsComponent/whyUsContent";
 export default function WhyUs() {
   return (

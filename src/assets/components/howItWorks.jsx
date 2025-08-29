@@ -1,5 +1,5 @@
-import Awan2 from "../img/awan2.png";
-import Awan4 from "../img/awan4.png";
+import Awan2 from "../img/cloud/cloud2.png";
+import Awan4 from "../img/cloud/cloud4.png";
 import HeaderHowItWorks from "./HowItWorksComponent/HeaderHowItWorks";
 import HowItWorksContent from "./HowItWorksComponent/howItWorksContent";
 import HowItWorksContentTab from "./HowItWorksComponent/howItWorkwContentTab";
